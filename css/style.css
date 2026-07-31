@@ -98,7 +98,7 @@ h3 { font-size: clamp(1.7rem, 2.5vw, 2.6rem); }
 .service-card { border:1px solid var(--line); background:var(--paper); }
 .service-image { height:440px; }
 .stewardship-card .service-image { background-image:url('https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=85'); }
-.restoration-card .service-image { background-image:url('https://images.unsplash.com/photo-1541971875076-8f970d573be6?auto=format&fit=crop&w=1200&q=85'); }
+.restoration-card .service-image { background-image:url('../images/restoration-1.jpg'); }
 .service-content { padding:48px; }
 .service-label { font-size:.7rem; letter-spacing:.15em; text-transform:uppercase; }
 .service-content p:not(.service-label) { max-width:540px; }
